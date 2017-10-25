@@ -9,6 +9,7 @@ import uk.co.clarob.generation.definition.BuildersTest;
         PathDefinitionImplementationTest.class,
         PathDefinitionBuilderImplementationTest.class,
         TypeDefinitionImplementationTest.class,
+        TypeDefinitionBuilderImplementationTest.class,
         BuildersImplementationTest.class,
         BuildersTest.class})
 public class DefinitionTestSuite
